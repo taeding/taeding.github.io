@@ -88,11 +88,11 @@ about_content: >-
   성장 중인 AI탐구자로서 전문가가 되기 위해 노력하고 있습니다.
 about_services: # 형식에 맞추어 항목 추가
 - icon: icon-data
-  name: Server
+  name: Data
 - icon: icon-monitor
-  name: Web
-- icon: icon-phone3
-  name: App
+  name: AI
+- icon: icon-database
+  name: DB
 - icon: icon-code
   name: Python
 about_box_content: 
@@ -109,7 +109,14 @@ about_box_button:
 # Tech  skill
 tech_meta: TECH SKILLS
 tech_header: 저는 현재 이것을 할 수 있습니다.
-tech_content: markdown으로 할수 있으면 좋을듯
+tech_content:
+ 멋쟁이사자처럼 교육을 들으며<br> 
+ 1. 파이썬문법부터 시작하여<br>
+ 2. 전통적인 머신러닝 기법<br>
+ 3. 딥러닝 기법<br>
+ 4. DB의 SQLite기본 사용법<br>
+ 5. 웹크롤링<br>
+ 등을 학습하였습니다.
 tech_list: # 형식에 맞추어 항목 추가
 - name: Python
   color: color-1
@@ -129,18 +136,19 @@ tech_list: # 형식에 맞추어 항목 추가
   percent: 30
   mark: 30
   content: 공부하면 공부할수록 이 분야가 정말 방대하고 제가 아는것이 정말 일부분이라는 것을 많이 느낍니다. CV분야 실습을 위해 모바일넷 활용도 프로젝트를 통해 구현해 보았습니다.
+- name: DB
+  color: color-5
+  animation: fadeInLeft
+  percent: 20
+  mark: 20
+  content: 교육간 매우 기초적인 부분만 배운상태입니다.<br> 교육 수료생 동기와 스터디를 통해 다시 공부할 예정입니다.
 - name: Github
   color: color-4
   animation: fadeInRight
   percent: 20
   mark: 20
   content: github서버를 활용하여 블로그 및 포트폴리오 사이트를 관리를 시작한 단계입니다. 아직 github를 통해 소스코드를 관리하거나 협업한 경험은 없어 배울점이 많이 남아 있습니다. 
-- name: 데이터베이스
-  color: color-5
-  animation: fadeInLeft
-  percent: 20
-  mark: 20
-  content: 교육간 매우 기초적인 부분만 배운상태입니다. 교육 수료생 동기와 스터디를 통해 다시 공부할 예정입니다.
+
 tech_desc: 앞으로는 회사에서 요구하는 분야는 물론 <strong> Github, python, 머신러닝, 딥러닝 추가적으로 Javascript </strong>등을 계속해서 공부하여 발전해 나갈 생각입니다.
 
 
